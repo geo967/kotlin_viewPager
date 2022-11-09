@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewPager - Kotlin</string>
+    <string name="auto_image">Auto Image Slider</string>
+    <string name="android_infinite_auto_image_slider">Android Infinite auto image slider</string>
+    <string name="images_in_view_pager">images in view pager</string>
+    <string name="next_page">next Page</string>
+</resources>
